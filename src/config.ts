@@ -60,7 +60,7 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'Bilibili',
-      icon: 'fa6-brands:bilibili'',
+      icon: 'fa6-brands:bilibili',
       url: 'https://space.bilibili.com/7538278',
     },
     {
